@@ -1,0 +1,1 @@
+after creating a project on firebase and configure it on cli, go to firebase.json file and change public: to dist/projectname as in dist folder.
